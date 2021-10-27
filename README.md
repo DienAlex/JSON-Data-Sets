@@ -1,7 +1,7 @@
 # JSON Data Sets - Homework Assignment CSCI 40
 ## GDP Comparison between America and China
 
-![GDP Data](https://github.com/DienAlex/JSON-Data-Sets/blob/main/JSON%20HW%202/ChinavsUSA-GDP.png)
+![GDP Data](https://github.com/DienAlex/JSON-Data-Sets/blob/main/JSON%20HW%202/GDP3.png)
 
 In this example graph, I used the data sets attached below to demonstrate the GDP growth of two nations, USA and China. GDP, or gross domestic product product, is used to measure the monetary market value of all final goods and services. From the graph above, we can tell that the US has had the upper edge for many years, but as time goes on, China is slowly catching up.  
 
