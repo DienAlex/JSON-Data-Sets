@@ -8,7 +8,7 @@ These are the data sources used:
 [America's GDP data](http://api.worldbank.org/v2/countries/USA/indicators/NY.GDP.MKTP.CD?per_page=5000&format=json)
 
 
-## Breakdown of Height and Weight of the Pokemon
+## Breakdown of Height and Weight of Pokemon
 
 ![Pokedex Data](https://github.com/DienAlex/JSON-Data-Sets/blob/main/JSON%20HW%202/Scatterplot.png)
 
